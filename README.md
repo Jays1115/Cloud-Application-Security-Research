@@ -46,9 +46,10 @@ How does Cloud Encryption Work? ([Resource](https://docs.aws.amazon.com/whitepap
 - The industry standard encryption for data at rest is AES-256
 <br/>
 
-<h3>Quick Research</h3>
-I used the above research to inform my slide for the team presentation on cloud application security. Most of the presntation was already completed by other team member, below is the slide I was responsible for:
-
+<h3>Meeting Presentation</h3>
+I used the above research to inform my slide for the team presentation on cloud application security. Most of the presntation was already completed by other team member, below is the slide I was responsible for: <br/><br/>
 <p align="center">
-<img src="images/Screenshot 2024-10-23 at 8.54.32 AM.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<img src="images/Screenshot 2024-10-23 at 1.54.49 PM.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+
+To view the team's entire slide deck click [here](https://docs.google.com/presentation/d/1IB4quqGkY0Q7pMRitKlozJapaTghxi4K/edit?usp=sharing&ouid=109580688093682111268&rtpof=true&sd=true).
 
